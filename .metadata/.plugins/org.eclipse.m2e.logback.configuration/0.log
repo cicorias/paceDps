@@ -80,3 +80,8 @@ org.apache.lucene.index.IndexNotFoundException: no segments* file found in org.a
 2012-08-25 14:31:33,960 [pool-12-thread-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
 2012-08-25 14:31:34,184 [pool-14-thread-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
 2012-08-25 15:24:24,633 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2012-08-25 15:48:37,767 [main] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 16
+2012-08-25 16:11:50,508 [Worker-23] WARN  o.a.c.httpclient.HttpMethodBase - Cookie rejected: "$Version=0; JSESSIONID=DA3DDFBAAFABAB871EAEEC834E2966C6; $Path=/servlets". Illegal path attribute "/servlets". Path of origin: "/eclipse/update-site/e3.5/content.jar"
+2012-08-25 16:11:50,514 [Worker-23] WARN  o.a.c.httpclient.HttpMethodBase - Cookie rejected: "$Version=0; JSESSIONID=DA3DDFBAAFABAB871EAEEC834E2966C6; $Path=/; $Domain=.collab.net". Domain attribute ".collab.net" violates RFC 2109: host minus domain may not contain any dots
+2012-08-25 16:11:50,676 [Worker-34] WARN  o.a.c.httpclient.HttpMethodBase - Cookie rejected: "$Version=0; JSESSIONID=F3765AAF5AB93C651D7EB006C3C7BA48; $Path=/servlets". Illegal path attribute "/servlets". Path of origin: "/eclipse/update-site/e3.5/content.xml"
+2012-08-25 16:11:50,680 [Worker-34] WARN  o.a.c.httpclient.HttpMethodBase - Cookie rejected: "$Version=0; JSESSIONID=F3765AAF5AB93C651D7EB006C3C7BA48; $Path=/; $Domain=.collab.net". Domain attribute ".collab.net" violates RFC 2109: host minus domain may not contain any dots

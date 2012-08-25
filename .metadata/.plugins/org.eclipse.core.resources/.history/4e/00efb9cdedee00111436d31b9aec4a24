@@ -1,0 +1,25 @@
+package simpleApplication;
+
+import javax.swing.JPanel;
+import javax.swing.JLabel;
+import javax.swing.JButton;
+
+public class SomethingPanel extends JPanel {
+
+	/**
+	 * Create the panel.
+	 */
+	public SomethingPanel() {
+		setLayout(null);
+		
+		JButton btnNewButton = new JButton("New button");
+		btnNewButton.setBounds(35, 34, 89, 23);
+		add(btnNewButton);
+		
+		JLabel lblNewLabel = new JLabel("New label");
+		lblNewLabel.setBounds(35, 11, 46, 14);
+		add(lblNewLabel);
+
+	}
+
+}

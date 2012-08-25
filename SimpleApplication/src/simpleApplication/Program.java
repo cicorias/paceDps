@@ -1,4 +1,5 @@
 package simpleApplication;
+
 import javax.swing.*;
 
 public class Program {
@@ -19,6 +20,11 @@ public class Program {
 		
 		
 
+	}
+	
+	public String helloWorld(){
+		return "Hello world"; 
+		
 	}
 
 }
