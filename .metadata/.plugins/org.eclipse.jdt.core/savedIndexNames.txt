@@ -1,0 +1,21 @@
+INDEX VERSION 1.126+C:\Users\scicoria\Documents\GitHub\paceDps\.metadata\.plugins\org.eclipse.jdt.core
+3041180539.index
+4251467834.index
+302892049.index
+3000053649.index
+735879558.index
+3629517968.index
+3585733931.index
+968966990.index
+859121210.index
+1789169078.index
+3679714460.index
+3730526690.index
+1766938116.index
+973539488.index
+1785887099.index
+3270002986.index
+3280718140.index
+3424350125.index
+2877109961.index
+3277441100.index

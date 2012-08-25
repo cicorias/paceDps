@@ -1,0 +1,275 @@
+[
+  {
+    "symbolicName": "junit",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d066505750a09d6cc5ea8e78d4d26ab6cbf96a91",
+    "jarFileModificationDate": "2011-03-04T11:43:24-05:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.junit_3.8.2.v3_8_2_v20100427-1100\\junit.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.runtime",
+    "version": {
+      "major": 3,
+      "minor": 8,
+      "micro": 0,
+      "qualifier": "v20120521-2346"
+    },
+    "jarFileFingerprint": "d7e393663db22d5d49563d84e72155d960f6a2a0",
+    "jarFileModificationDate": "2012-06-14T13:40:50-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.core.runtime_3.8.0.v20120521-2346.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.core.commands",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 1,
+      "qualifier": "v20120521-2329"
+    },
+    "jarFileFingerprint": "5032b97e1e33e2ca226ef42816bee2f7179876c3",
+    "jarFileModificationDate": "2012-06-14T13:40:48-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.core.commands_3.6.1.v20120521-2329.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "09f86222555f51866ef5622f3e895303b613db04",
+    "jarFileModificationDate": "2011-02-13T11:58:47.984-05:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.ui.workbench",
+    "version": {
+      "major": 3,
+      "minor": 103,
+      "micro": 0,
+      "qualifier": "v20120530-1824"
+    },
+    "jarFileFingerprint": "786ebe1f7f0754899167b68aca249c3af4ac5b3b",
+    "jarFileModificationDate": "2012-06-14T13:41:12-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.ui.workbench_3.103.0.v20120530-1824.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2357317d1e1f14937b3bda942c58791ee1dba581",
+    "jarFileModificationDate": "2011-02-13T11:58:47.872-05:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "586b1a8e6fbd38db1977549fff9f38a75a671c80",
+    "jarFileModificationDate": "2011-02-13T11:58:50.779-05:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.jface.text",
+    "version": {
+      "major": 3,
+      "minor": 8,
+      "micro": 0,
+      "qualifier": "v20120531-0600"
+    },
+    "jarFileFingerprint": "d8a0f57dce42c0e17f3d527ff0e47a6ed2d8a0ad",
+    "jarFileModificationDate": "2012-06-14T13:40:58-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.jface.text_3.8.0.v20120531-0600.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.registry",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 200,
+      "qualifier": "v20120522-1841"
+    },
+    "jarFileFingerprint": "54ae046b40c9095c2637f8d21664c5cd76e34485",
+    "jarFileModificationDate": "2012-06-14T13:40:54-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0291c376892d71518905b96b156834389a0da26c",
+    "jarFileModificationDate": "2011-02-13T11:58:47.949-05:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.swt.win32.win32.x86_64",
+    "version": {
+      "major": 3,
+      "minor": 100,
+      "micro": 0,
+      "qualifier": "v4233d"
+    },
+    "jarFileFingerprint": "d2d16e2e2be7f174bda45f42e1ffc851270572e7",
+    "jarFileModificationDate": "2012-06-14T13:41:08-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.swt.win32.win32.x86_64_3.100.0.v4233d.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "02c9a3c47acb67308cf16bb58b441b29ef3a4985",
+    "jarFileModificationDate": "2011-02-13T11:58:52.160-05:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d7637b1a1e03331dcc73bcc340ede5ca8741c581",
+    "jarFileModificationDate": "2011-02-13T11:58:47.844-05:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "20f3d289c0af4e85070ececf3de5db909179f329",
+    "jarFileModificationDate": "2011-02-13T11:58:52.248-05:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.eclipse.jface",
+    "version": {
+      "major": 3,
+      "minor": 8,
+      "micro": 0,
+      "qualifier": "v20120521-2329"
+    },
+    "jarFileFingerprint": "df66bb3ed3ec8c668442c9c83d40577679fbefd1",
+    "jarFileModificationDate": "2012-06-14T13:40:58-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.jface_3.8.0.v20120521-2329.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.ui.forms",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 200,
+      "qualifier": "v20120521-2329"
+    },
+    "jarFileFingerprint": "018d7aefa6e18261b201d88da7d44b621f35069c",
+    "jarFileModificationDate": "2012-06-14T13:41:10-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.ui.forms_3.5.200.v20120521-2329.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.equinox.common",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 100,
+      "qualifier": "v20120522-1841"
+    },
+    "jarFileFingerprint": "3d1eaf476003cedf4f33ca77bb86e7ce14aace82",
+    "jarFileModificationDate": "2012-06-14T13:40:52-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.equinox.common_3.6.100.v20120522-1841.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.osgi",
+    "version": {
+      "major": 3,
+      "minor": 8,
+      "micro": 0,
+      "qualifier": "v20120529-1548"
+    },
+    "jarFileFingerprint": "b54e470d47df378b9dce9423f919ccf4c7a60138",
+    "jarFileModificationDate": "2012-06-14T13:41:06-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.osgi_3.8.0.v20120529-1548.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.ibm.icu",
+    "version": {
+      "major": 4,
+      "minor": 4,
+      "micro": 2,
+      "qualifier": "v20110823"
+    },
+    "jarFileFingerprint": "19fe93c9d8a69f2d4f9b5062e6a19855273bdfab",
+    "jarFileModificationDate": "2012-06-14T13:40:46-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\com.ibm.icu_4.4.2.v20110823.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.text",
+    "version": {
+      "major": 3,
+      "minor": 5,
+      "micro": 200,
+      "qualifier": "v20120523-1310"
+    },
+    "jarFileFingerprint": "eaf2cd6b6491c6996031fa81e660d674aba9810d",
+    "jarFileModificationDate": "2012-06-14T13:41:10-04:00",
+    "location": "C:\\Temp\\Exclipse\\eclipse\\plugins\\org.eclipse.text_3.5.200.v20120523-1310.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "98b52a994c49cc96b2c5f84d943aaa5a213f2fa3",
+    "jarFileModificationDate": "2011-02-13T11:58:50.915-05:00",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\jsse.jar",
+    "javaRuntime": true
+  }
+]

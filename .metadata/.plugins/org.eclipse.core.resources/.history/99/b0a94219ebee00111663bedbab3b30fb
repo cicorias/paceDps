@@ -1,0 +1,19 @@
+package simpleApplication;
+
+public class Program {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		
+		SomethingPanel panel = new SomethingPanel();
+		
+		panel.setVisible(true);
+		
+		
+
+	}
+
+}

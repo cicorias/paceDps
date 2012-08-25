@@ -1,0 +1,14 @@
+package simpleApplication;
+
+import javax.swing.JPanel;
+
+public class SomethingPanel extends JPanel {
+
+	/**
+	 * Create the panel.
+	 */
+	public SomethingPanel() {
+
+	}
+
+}

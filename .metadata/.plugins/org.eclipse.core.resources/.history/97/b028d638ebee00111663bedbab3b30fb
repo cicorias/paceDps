@@ -1,0 +1,20 @@
+package simpleApplication;
+import javax.swing.*;
+
+public class Program {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		JFrame frame = new JFrame();
+		SomethingPanel panel = new SomethingPanel();
+		
+		panel.setVisible(true);
+		
+		
+
+	}
+
+}
