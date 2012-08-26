@@ -85,3 +85,12 @@ org.apache.lucene.index.IndexNotFoundException: no segments* file found in org.a
 2012-08-25 16:11:50,514 [Worker-23] WARN  o.a.c.httpclient.HttpMethodBase - Cookie rejected: "$Version=0; JSESSIONID=DA3DDFBAAFABAB871EAEEC834E2966C6; $Path=/; $Domain=.collab.net". Domain attribute ".collab.net" violates RFC 2109: host minus domain may not contain any dots
 2012-08-25 16:11:50,676 [Worker-34] WARN  o.a.c.httpclient.HttpMethodBase - Cookie rejected: "$Version=0; JSESSIONID=F3765AAF5AB93C651D7EB006C3C7BA48; $Path=/servlets". Illegal path attribute "/servlets". Path of origin: "/eclipse/update-site/e3.5/content.xml"
 2012-08-25 16:11:50,680 [Worker-34] WARN  o.a.c.httpclient.HttpMethodBase - Cookie rejected: "$Version=0; JSESSIONID=F3765AAF5AB93C651D7EB006C3C7BA48; $Path=/; $Domain=.collab.net". Domain attribute ".collab.net" violates RFC 2109: host minus domain may not contain any dots
+2012-08-26 15:45:51,462 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2012-08-26 15:45:51,534 [Worker-4] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2012-08-26 15:47:16,213 [Worker-4] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 84756 ms
+2012-08-26 15:58:39,151 [Worker-2] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2012-08-26 15:58:39,223 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2012-08-26 15:58:40,466 [Worker-2] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 1324 ms
+2012-08-26 16:09:34,666 [Worker-1] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2012-08-26 16:09:34,730 [Worker-1] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2012-08-26 16:09:35,928 [Worker-1] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updated index for repository: central|http://repo.maven.apache.org/maven2 in 1267 ms
